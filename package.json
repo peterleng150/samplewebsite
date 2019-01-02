@@ -13,9 +13,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://peterleng150.github.io/samplewebsite",
+  "homepage": "https://github.com/peterleng150/samplewebsite#readme",
   "bugs": {
     "url": "https://github.com/peterleng150/samplewebsite/issues"
   },
-  "homepage": "https://github.com/peterleng150/samplewebsite#readme"
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
