@@ -1,0 +1,21 @@
+{
+  "name": "dodecahedron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterleng150/samplewebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://peterleng150.github.io/samplewebsite",
+  "bugs": {
+    "url": "https://github.com/peterleng150/samplewebsite/issues"
+  },
+  "homepage": "https://github.com/peterleng150/samplewebsite#readme"
+}
